@@ -1,4 +1,4 @@
-# Harobot Cable Collimator
+# Haro380 Cable Collimator
 
 This project contains 3D model files (STL format) for tracheal and cable clips designed for the Haro380 robotic arm, as well as related real object images.
 
